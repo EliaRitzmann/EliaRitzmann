@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @EliaRitzmann
-- 👀 I’m interested in React and TailwindCSS
-- 🌱 I’m currently learning Symfony
-- 🎬 Big fan of the DAЯK series
+# 👋 Hi, I'm Elia Ritzmann
 
+- 🔭 Currently working on: SRG PlayNext
+- 👀 I’m interested in React native and tailwindCSS 
+- 🌱 Learning more about: Micronaut and Kotlin
+- 🎬 Big fan of the DAЯK series
